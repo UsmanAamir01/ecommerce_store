@@ -12,6 +12,11 @@ namespace ecommerce
 {
     public partial class LoginForm : Form
     {
+        public LoginForm()
+        {
+            InitializeComponent();
+        }
+
         private void Form2_Load(object sender, EventArgs e)
         {
 

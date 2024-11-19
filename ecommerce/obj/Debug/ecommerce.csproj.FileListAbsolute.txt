@@ -1,34 +1,3 @@
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\ecommerce.exe.config
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\ecommerce.exe
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\ecommerce.pdb
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\Oracle.ManagedDataAccess.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Buffers.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Formats.Asn1.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Memory.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Numerics.Vectors.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Encodings.Web.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Json.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.ValueTuple.dll
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Buffers.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Formats.Asn1.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Memory.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Numerics.Vectors.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Encodings.Web.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Json.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.ValueTuple.xml
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.AssemblyReference.cache
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.Form1.resources
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.Properties.Resources.resources
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.GenerateResource.cache
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CoreCompileInputs.cache
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
-E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.exe
 E:\DB Project\DbProject\ecommerce\ecommerce\eco
 \\Mac\Home\Desktop\ecommerce_store\ecommerce\bin\Debug\ecommerce.exe
 \\Mac\Home\Desktop\ecommerce_store\ecommerce\bin\Debug\ecommerce.exe.config
@@ -64,3 +33,37 @@ E:\DB Project\DbProject\ecommerce\ecommerce\eco
 \\Mac\Home\Desktop\ecommerce_store\ecommerce\obj\Debug\ecommerce.csproj.Up2Date
 \\Mac\Home\Desktop\ecommerce_store\ecommerce\obj\Debug\ecommerce.exe
 \\Mac\Home\Desktop\ecommerce_store\ecommerce\obj\Debug\ecommerce.pdb
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\ecommerce.exe.config
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\ecommerce.exe
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\ecommerce.pdb
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Buffers.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Formats.Asn1.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Memory.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Numerics.Vectors.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Encodings.Web.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Json.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.ValueTuple.dll
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Buffers.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Formats.Asn1.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Memory.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Numerics.Vectors.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Encodings.Web.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Text.Json.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\bin\Debug\System.ValueTuple.xml
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.AssemblyReference.cache
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.SignUpForm.resources
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.LoginForm.resources
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.DashBoard.resources
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.Properties.Resources.resources
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.GenerateResource.cache
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CoreCompileInputs.cache
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.exe
+E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.pdb
