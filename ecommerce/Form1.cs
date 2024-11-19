@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ecommerce
 {
-    public partial class Form1 : Form
+    public partial class SignUpForm : Form
     {
-        public Form1()
+        public SignUpForm()
         {
             InitializeComponent();
         }
@@ -20,6 +20,33 @@ namespace ecommerce
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void txtPhoneNumber_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox7_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPassword_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSignUp_Click(object sender, EventArgs e)
+        {
+            LoginForm form = new LoginForm();
+            this.Hide();
+            form.Show();
         }
     }
 }
