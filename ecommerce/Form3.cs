@@ -15,6 +15,8 @@ namespace ecommerce
         public DashBoard()
         {
             InitializeComponent();
+            flowLayoutPanel1.Visible = false;
+            
         }
 
         private void pbLogo_Click(object sender, EventArgs e)
@@ -30,6 +32,16 @@ namespace ecommerce
         private void pnlHeader_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnHamburger_Click(object sender, EventArgs e)
+        {
+            flowLayoutPanel1.Visible = true;
         }
     }
 }

@@ -67,3 +67,7 @@ E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj
 E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
 E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.exe
 E:\DB Project\DbProject\ecommerce\ecommerce\ecommerce\obj\Debug\ecommerce.pdb
+\\Mac\Home\Desktop\ecommerce_store\ecommerce\obj\Debug\ecommerce.Form4.resources
+\\Mac\Home\Desktop\ecommerce_store\ecommerce\obj\Debug\ecommerce.Form5.resources
+\\Mac\Home\Desktop\ecommerce_store\ecommerce\obj\Debug\ecommerce.Form6.resources
+\\Mac\Home\Desktop\ecommerce_store\ecommerce\obj\Debug\ecommerce.Form7.resources
