@@ -43,5 +43,10 @@ namespace ecommerce
         {
             flowLayoutPanel1.Visible = true;
         }
+
+        private void DashBoard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

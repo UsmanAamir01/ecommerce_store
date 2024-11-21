@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
@@ -12,28 +24,10 @@
       "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65607026-5F0B-49D0-AB17-E04F0932DF5B}|ecommerce\\ecommerce.csproj|\\\\mac\\home\\desktop\\ecommerce_store\\ecommerce\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -46,35 +40,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form7.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form7.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form7.cs [Design]*",
               "RelativeToolTip": "ecommerce\\Form7.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:42:57.666Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-19T18:42:57.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form6.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form6.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form6.cs [Design]",
               "RelativeToolTip": "ecommerce\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:33:40.077Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-19T18:33:40.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form3.Designer.cs",
@@ -99,19 +91,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form5.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form5.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form5.cs [Design]*",
-              "RelativeToolTip": "ecommerce\\Form5.cs [Design]*",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form5.cs [Design]",
+              "RelativeToolTip": "ecommerce\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T18:06:45.989Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form4.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form4.cs",
@@ -124,32 +116,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form3.cs",
-              "RelativeDocumentMoniker": "ecommerce\\Form3.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form3.cs",
-              "RelativeToolTip": "ecommerce\\Form3.cs",
-              "ViewState": "AQIAACMAAACAzMzMzMz+vysAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T17:32:04.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form2.cs",
-              "RelativeDocumentMoniker": "ecommerce\\Form2.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form2.cs",
-              "RelativeToolTip": "ecommerce\\Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T05:36:50.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form1.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form1.cs",
@@ -162,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form2.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form2.cs",
@@ -174,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\Form1.cs",
               "RelativeDocumentMoniker": "ecommerce\\Form1.cs",
@@ -186,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "database.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ecommerce_store\\ecommerce\\database.cs",
               "RelativeDocumentMoniker": "ecommerce\\database.cs",

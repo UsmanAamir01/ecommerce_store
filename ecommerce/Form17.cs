@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace ecommerce
 {
-    public partial class LoginForm : Form
+    public partial class Form17 : Form
     {
-        public LoginForm()
+        public Form17()
         {
             InitializeComponent();
-        }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

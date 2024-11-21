@@ -37,11 +37,6 @@ namespace ecommerce
 
         }
 
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnSignUp_Click(object sender, EventArgs e)
         {
             LoginForm form = new LoginForm();
