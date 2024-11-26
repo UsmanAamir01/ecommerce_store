@@ -43,5 +43,10 @@ namespace ecommerce
             this.Hide();
             form.Show();
         }
+
+        private void pbLogo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
